@@ -1,6 +1,6 @@
 <script>
     import P5 from 'p5-svelte';
-    import 'C:/Users/HP/Pokedex/src/app.css';
+    import '/src/app.css';
 
 	const sketch = (p5) => {
 
