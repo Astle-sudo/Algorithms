@@ -1,5 +1,5 @@
 <script>
-    import 'C:/Users/HP/Pokedex/src/app.css'
+    import '/src/app.css'
 </script>
 
 <nav class="flex justify-center">
